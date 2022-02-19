@@ -1,2 +1,2 @@
-# test-repositaory
+# test-repository
 for homeworks
